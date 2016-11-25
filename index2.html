@@ -26,28 +26,31 @@ Webページのソースに表示されるので、秘密の情報は
 <body>
 
 
-  <div class="container" id="header" style="background: red;">header</div>
-
   <div class="container">
     <div class="row">
-      <div class="col-sm-3" style="background: pink;">Side1</div>
-      <div class="col-sm-6" style="background: green;">Main</div>
-      <div class="col-sm-3" style="background: skyblue;">Side2</div>
-    </div>
-  </div>
-
-  <div class="container" id="footer" style="background: blue;">footer</div>
 
   <h1>作品ページ</h1>
           <p class="work-title">学籍番号：00</p>
           <p>田中　雄</p>
-          <dl>
-              <dt class="work-title"><a href="./yoketoru-unity/">よけとるUnity</a></dt>
-              <dd>ゲームプログラミングの講義で作成した習作。</dd>
 
-              <dt class="work-title"><a href="./folder2/">作品２</a></dt>
-              <dd>作品２の概要をここに書きましょう。</dd>
-          </dl>
+          <div class="panel panel-danger">
+            <div class="panel-heading"><a href="./yoketoru-unity/">よけとるUnity</a></div>
+            <div class="panel-body">
+              ゲームプログラミングの講義で作成した習作。
+            </div>
+          </div>
 
+          <div class="panel panel-danger">
+            <div class="panel-heading"><a href="./folder2/">作品２</a></div>
+            <div class="panel-body">
+              作品２の概要をここに書きましょう。
+            </div>
+          </div>
+
+        </div>
+      </div>
+
+      <hr>
+      <div class="container text-center" id="footer"><span class="glyphicon glyphicon-copyright-mark"></span> 2016 YuTanaka</div>
 </body>
 </html>
