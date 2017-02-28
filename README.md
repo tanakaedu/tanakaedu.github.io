@@ -14,4 +14,4 @@
 - [Atomエディター](https://atom.io)
   - [emmet](https://atom.io/packages/emmet)
   - [atom-html-previewer](https://atom.io/packages/atom-html-preview)
-  
+- [GitHub Desktop](https://desktop.github.com/)  
