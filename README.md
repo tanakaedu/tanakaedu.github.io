@@ -3,6 +3,8 @@
 - [ドットインストール](http://dotinstall.com/)
 - [paiza Learning](https://paiza.jp/works)
 - [paiza 開発日誌](http://paiza.hatenablog.com/)
+- [タイピング無料ゲーム道場](http://www.typingdojo.com/)
+- [e-typing](https://www.e-typing.ne.jp/)
 
 ## ゲームエンジン
 - [Unity](http://japan.unity3d.com/)
